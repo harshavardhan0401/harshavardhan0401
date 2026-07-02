@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Harsha Vardhan
+
+Full Stack Developer
+
+Building modern web applications with React, Java & Firebase
 <!--
 **harshavardhan0401/harshavardhan0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
