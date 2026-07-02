@@ -5,6 +5,8 @@ Harsha Vardhan
 Full Stack Developer
 
 Building modern web applications with React, Java & Firebase
+<img width="1774" height="887" alt="ChatGPT Image Jul 2, 2026, 12_04_52 PM" src="https://github.com/user-attachments/assets/5535271a-d280-49c3-a17d-9f4ef4609f81" />
+
 <!--
 **harshavardhan0401/harshavardhan0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
